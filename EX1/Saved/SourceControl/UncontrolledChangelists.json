@@ -11,7 +11,16 @@
 				"C:/unreal_bootcamp/EX1/Content/ThirdPerson/Blueprints/BP_Switch.uasset",
 				"C:/unreal_bootcamp/EX1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/WV/3Z7IA2DIWTEYDG36X7TUVP.uasset",
 				"C:/unreal_bootcamp/EX1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/QA/IX6AQHGVYEGYS1EF3ZI4ME.uasset",
-				"C:/unreal_bootcamp/EX1/Content/ThirdPerson/Maps/ThirdPersonMap.umap"
+				"C:/unreal_bootcamp/EX1/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/unreal_bootcamp/EX1/Content/ThirdPerson/Blueprints/BP_Timer.uasset",
+				"C:/unreal_bootcamp/EX1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/OB/038NGTQAEFRQMBIFI8WZD5.uasset",
+				"C:/unreal_bootcamp/EX1/Content/ThirdPerson/Blueprints/HUDWidget.uasset",
+				"C:/unreal_bootcamp/EX1/Content/ThirdPerson/Blueprints/BP_HUD.uasset",
+				"C:/unreal_bootcamp/EX1/Content/ThirdPerson/Blueprints/BP_CountBox.uasset",
+				"C:/unreal_bootcamp/EX1/Content/ThirdPerson/Blueprints/CountWidget.uasset",
+				"C:/unreal_bootcamp/EX1/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/unreal_bootcamp/EX1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/N0/XKEKYSBRFNZAX86ZY07JDP.uasset",
+				"C:/unreal_bootcamp/EX1/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/5E/B3TOYM2ZH8CSAKMBZTIFBN.uasset"
 			]
 		}
 	]
