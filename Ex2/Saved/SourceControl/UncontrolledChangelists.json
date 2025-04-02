@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/unreal_bootcamp/Ex2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/unreal_bootcamp/Ex2/Content/BluePrint/BP_MoveLeftRight.uasset",
+				"C:/unreal_bootcamp/Ex2/Content/BluePrint/EN_MoveType.uasset",
+				"C:/unreal_bootcamp/Ex2/Content/BluePrint/BP_MoveRect.uasset",
+				"C:/unreal_bootcamp/Ex2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/OS/1NR0U3BLX4PFDU5ZRRE9CY.uasset",
+				"C:/unreal_bootcamp/Ex2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/AP/RX8NIELBXMAMSXYK4VFH4M.uasset",
+				"C:/unreal_bootcamp/Ex2/Content/BluePrint/HUDWidget.uasset",
+				"C:/unreal_bootcamp/Ex2/Content/BluePrint/BP_Timer.uasset",
+				"C:/unreal_bootcamp/Ex2/Content/BluePrint/BP_HUD.uasset",
+				"C:/unreal_bootcamp/Ex2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/KM/I4KAU4VYXVWL7XF5VUKVBF.uasset",
+				"C:/unreal_bootcamp/Ex2/Content/BluePrint/BP_Coin.uasset",
+				"C:/unreal_bootcamp/Ex2/Content/BluePrint/BP_SplineMove.uasset",
+				"C:/unreal_bootcamp/Ex2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/2Q/QKMYV2TLBGS9OTY27UV909.uasset",
+				"C:/unreal_bootcamp/Ex2/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset"
+			]
+		}
+	]
+}
