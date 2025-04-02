@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/UnrealBootcamp/unreal_bootcamp/Ex2/Content/BluePrint/BP_Coin.uasset",
+				"C:/UnrealBootcamp/unreal_bootcamp/Ex2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/WG/BVPJXGZ2NCOOQOY0BM440X.uasset",
+				"C:/UnrealBootcamp/unreal_bootcamp/Ex2/Content/BluePrint/HUDWidget.uasset",
+				"C:/UnrealBootcamp/unreal_bootcamp/Ex2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/G6/XIYXTCTBTIB4R1JDHCF9UQ.uasset",
+				"C:/UnrealBootcamp/unreal_bootcamp/Ex2/Content/BluePrint/BP_Timer.uasset",
 				"C:/unreal_bootcamp/Ex2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/unreal_bootcamp/Ex2/Content/BluePrint/BP_MoveLeftRight.uasset",
 				"C:/unreal_bootcamp/Ex2/Content/BluePrint/EN_MoveType.uasset",
